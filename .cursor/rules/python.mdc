@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Always use python 3.10.
+DO NOT make any changes to the submodules pybind11 or thrust.
